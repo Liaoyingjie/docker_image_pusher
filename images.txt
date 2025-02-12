@@ -24,12 +24,13 @@
 #sonarqube:7.8-community
 
 #redis:6.2.17
-rancher/rancher:v2.5.9
-rancher/rancher-agent:v2.5.9
-rancher/shell:v0.1.6
-rancher/rancher-webhook:v0.1.1
-rancher/fleet:v0.3.5
-rancher/gitjob:v0.1.15
-rancher/coredns-coredns:1.6.9
-rancher/fleet-agent:v0.3.5
-rancher/rancher-operator:v0.1.4
+#rancher/rancher:v2.5.9
+#rancher/rancher-agent:v2.5.9
+#rancher/shell:v0.1.6
+#rancher/rancher-webhook:v0.1.1
+#rancher/fleet:v0.3.5
+#rancher/gitjob:v0.1.15
+#rancher/coredns-coredns:1.6.9
+#rancher/fleet-agent:v0.3.5
+#rancher/rancher-operator:v0.1.4
+open-webui
