@@ -33,4 +33,4 @@
 #rancher/coredns-coredns:1.6.9
 #rancher/fleet-agent:v0.3.5
 #rancher/rancher-operator:v0.1.4
-open-webui
+ghcr.io/open-webui/open-webui:main
