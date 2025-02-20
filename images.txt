@@ -36,4 +36,5 @@
 #ghcr.io/open-webui/open-webui:main
 #ghcr.io/open-webui/open-webui:cuda
 #ghcr.io/open-webui/open-webui:ollama
-mintplexlabs/anythingllm
+#mintplexlabs/anythingllm
+toanything/ragflow-infinity:latest
