@@ -39,4 +39,4 @@
 #mintplexlabs/anythingllm
 #toanything/ragflow-infinity:latest
 #infiniflow/infinity:v0.6.0-dev3
-infiniflow/ragflow
+infiniflow/ragflow:nightly-slim
