@@ -50,8 +50,8 @@
 
 
 #langgenius/dify-api:0.15.1
-#langgenius/dify-api:0.15.1
-#langgenius/dify-web:0.15.1
+langgenius/dify-api:0.15.3
+langgenius/dify-web:0.15.3
 #postgres:15-alpine
 #redis:6-alpine
 #langgenius/dify-sandbox:0.2.10
@@ -75,4 +75,4 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
-photoprism/photoprism:latest
+#photoprism/photoprism:latest
