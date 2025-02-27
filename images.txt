@@ -79,4 +79,6 @@
 #langgenius/dify-api:0.15.3
 #langgenius/dify-web:0.15.3
 #langgenius/dify-plugin-daemon:10e3d5d51ec05d57cf824ecc41d75e6a6cb04011-local
-xprobe/xinference:latest
+#xprobe/xinference:latest
+#mysql:8.0.38
+#test
