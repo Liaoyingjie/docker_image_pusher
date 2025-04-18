@@ -30,4 +30,5 @@
 #langgenius/dify-plugin-daemon:0.0.6-local
 #quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
 #mysql:5.7
-milvusdb/milvus:v2.5.9
+#milvusdb/milvus:v2.5.9
+zilliz/attu:v2.5.0
