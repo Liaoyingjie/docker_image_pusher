@@ -31,4 +31,10 @@
 #quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
 #mysql:5.7
 #milvusdb/milvus:v2.5.9
-zilliz/attu:v2.5.0
+#zilliz/attu:v2.5.0
+otel/opentelemetry-collector-contrib:0.112.0
+grafana/loki:3.2.0
+grafana/tempo:2.6.0
+prom/prometheus:v2.53.2
+grafana/grafana:11.3.0
+
