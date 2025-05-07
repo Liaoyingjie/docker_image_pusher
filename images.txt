@@ -50,7 +50,7 @@ jaegertracing/jaeger-agent:1.27
 jaegertracing/jaeger-collector:1.27
 jaegertracing/jaeger-query:1.27
 
-# 其他依赖
+## 其他依赖
 busybox:latest
 k8s.gcr.io/pause:3.2
 
