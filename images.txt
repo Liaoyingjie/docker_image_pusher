@@ -39,10 +39,12 @@
 #grafana/grafana:11.3.0
 
 # OpenTelemetry Operator 相关
-ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:v0.51.0
-ghcr.io/open-telemetry/opentelemetry-collector-releases/collector:0.51.0
-ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-java:1.17.0
-
+#ghcr.io/open-telemetry/opentelemetry-operator/opentelemetry-operator:v0.51.0
+sumologic/opentelemetry-operator:v0.51.0
+#ghcr.io/open-telemetry/opentelemetry-collector-releases/collector:0.51.0
+sumologic/collector:0.51.0
+#ghcr.io/open-telemetry/opentelemetry-operator/autoinstrumentation-java:1.17.0
+sumologic/autoinstrumentation-java:1.17.0
 # Jaeger 相关
 jaegertracing/jaeger-operator:1.27.0
 jaegertracing/all-in-one:1.27
