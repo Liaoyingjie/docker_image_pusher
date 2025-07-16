@@ -55,5 +55,5 @@ otel/opentelemetry-collector:0.51.0
 ## 其他依赖
 #busybox:latest
 #k8s.gcr.io/pause:3.2
-
+redis:6.2.19
 
