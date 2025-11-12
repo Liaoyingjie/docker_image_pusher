@@ -57,10 +57,11 @@ otel/opentelemetry-collector:0.51.0
 #k8s.gcr.io/pause:3.2
 #redis:6.2.19
 
-mysql:8
-redis:6.2
-prom/prometheus:v2.55.1
-flashcatcloud/nightingale:latest
-flashcatcloud/categraf:latest
+#mysql:8
+#redis:6.2
+#prom/prometheus:v2.55.1
+#flashcatcloud/nightingale:latest
+#flashcatcloud/categraf:latest
+victoriametrics/victoria-metrics:v1.79.12
 
 
