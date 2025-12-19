@@ -55,7 +55,7 @@ otel/opentelemetry-collector:0.51.0
 ## 其他依赖
 #busybox:latest
 #k8s.gcr.io/pause:3.2
-#redis:6.2.19
+redis:6.2.21
 
 #mysql:8
 #redis:6.2
@@ -63,6 +63,6 @@ otel/opentelemetry-collector:0.51.0
 #flashcatcloud/nightingale:latest
 #flashcatcloud/categraf:latest
 #victoriametrics/victoria-metrics:v1.79.12
-postgres:12-alpine
+#postgres:12-alpine
 
 
