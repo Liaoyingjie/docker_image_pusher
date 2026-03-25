@@ -64,6 +64,6 @@ otel/opentelemetry-collector:0.51.0
 #flashcatcloud/categraf:latest
 #victoriametrics/victoria-metrics:v1.79.12
 #postgres:12-alpine
-plndr/kube-vip:0.5.12
+plndr/kube-vip:0.5.0
 
 
