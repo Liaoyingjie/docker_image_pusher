@@ -65,5 +65,6 @@
 #victoriametrics/victoria-metrics:v1.79.12
 #postgres:12-alpine
 #plndr/kube-vip:0.5.0
-
-plndr/kube-vip:v0.5.11
+traefik:v2.10
+traefik/whoami
+#plndr/kube-vip:v0.5.11
