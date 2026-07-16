@@ -69,5 +69,9 @@
 #traefik/whoami
 #plndr/kube-vip:v0.5.11
 
-redis:7-alpine
-postgres:16-alpine
+#redis:7-alpine
+#postgres:16-alpine
+
+mysql:8.0
+influxdb:2.6-alpine
+redis:7.0-alpine
