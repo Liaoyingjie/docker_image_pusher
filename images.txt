@@ -72,6 +72,8 @@
 #redis:7-alpine
 #postgres:16-alpine
 
-mysql:8.0
-influxdb:2.6-alpine
-redis:7.0-alpine
+#mysql:8.0
+#influxdb:2.6-alpine
+#redis:7.0-alpine
+jenkins/jenkins:2.479.3-jdk11
+jenkins/jenkins:lts-jdk21
