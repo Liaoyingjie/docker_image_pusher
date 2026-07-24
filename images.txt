@@ -75,6 +75,6 @@
 #mysql:8.0
 #influxdb:2.6-alpine
 #redis:7.0-alpine
-jenkins/jenkins:2.574-jdk21
-jenkins/jenkins:2.453-jdk11
-
+#jenkins/jenkins:2.574-jdk21
+#jenkins/jenkins:2.453-jdk11
+node:20.10.12
