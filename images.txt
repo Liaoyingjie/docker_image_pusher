@@ -69,6 +69,7 @@
 #traefik/whoami
 #plndr/kube-vip:v0.5.11
 
+
 #redis:7-alpine
 #postgres:16-alpine
 
@@ -78,5 +79,6 @@
 #jenkins/jenkins:2.574-jdk21
 #jenkins/jenkins:2.453-jdk11
 #node:20.10.12
-node:20.10.0
+#node:20.10.0
 
+n8nio/n8n:latest
