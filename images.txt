@@ -82,5 +82,19 @@
 #node:20.10.0
 
 #N8N
-postgres:16-alpine
-docker.n8n.io/n8nio/n8n:2.40.7
+#postgres:16-alpine
+#docker.n8n.io/n8nio/n8n:2.40.7
+
+busybox:latest
+cr.weaviate.io/semitechnologies/weaviate:1.39.2
+langgenius/dify-agent-backend:1.17.1
+langgenius/dify-agent-local-sandbox:1.17.1
+langgenius/dify-api:1.17.1
+langgenius/dify-plugin-daemon:0.6.10-local
+langgenius/dify-sandbox:0.2.15
+langgenius/dify-web:1.17.1
+nginx:latest
+postgres:15-alpine
+redis:6-alpine
+ubuntu/squid:latest
+
